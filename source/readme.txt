@@ -1,4 +1,3 @@
-# helpfunction
 This function helps u with this methods: read file, write text in file, download file, clear txt file;
 To write text in file you should write "write(path,text,dir,name);"
 "dir and name" this is for unexpected exceptions).

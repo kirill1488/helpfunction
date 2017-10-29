@@ -1,0 +1,6 @@
+C:\Users\appst\source\repos\ClassLibrary2\ClassLibrary2\bin\Release\helpfunc.dll
+C:\Users\appst\source\repos\ClassLibrary2\ClassLibrary2\bin\Release\helpfunc.pdb
+C:\Users\appst\source\repos\ClassLibrary2\ClassLibrary2\obj\Release\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\appst\source\repos\ClassLibrary2\ClassLibrary2\obj\Release\helpfunc.dll
+C:\Users\appst\source\repos\ClassLibrary2\ClassLibrary2\obj\Release\helpfunc.pdb
+C:\Users\appst\source\repos\ClassLibrary2\ClassLibrary2\obj\Release\ClassLibrary2.csprojResolveAssemblyReference.cache
