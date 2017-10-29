@@ -6,3 +6,5 @@ To read text from file you should write "read(pathwithfile);"
 To create directory with file you should write "create(dir,name);"
 To download the file "load(link,path);"
 Enjoy!
+
+just exmaple on winforms: https://github.com/kirill1488/Example
